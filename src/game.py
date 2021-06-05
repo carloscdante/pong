@@ -28,9 +28,9 @@ window = pygame.display.set_mode((window_w, window_h))
 pygame.display.set_caption("Pong")
 clock = pygame.time.Clock()
 
-hit_sound = pygame.mixer.Sound('./hit.wav')
-wall_sound = pygame.mixer.Sound('./wall.wav')
-score_sound = pygame.mixer.Sound('./score.wav')
+hit_sound = pygame.mixer.Sound('./lib/hit.wav')
+wall_sound = pygame.mixer.Sound('./lib/wall.wav')
+score_sound = pygame.mixer.Sound('./lib/score.wav')
 
 blockAlive = True
 
