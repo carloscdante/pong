@@ -77,8 +77,6 @@ def restart_game():
 def game_loop():
 
     #variable declarations
-    COLOR = 'white'
-    COLORCOLLIDE = 'green'
 
     pos_x = window_w/2
     pos_y = window_h/2
