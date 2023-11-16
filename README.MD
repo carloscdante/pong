@@ -1,4 +1,4 @@
-## PONG - Pretty Obsolete No-good Game
+## PONG - Pretty Obsolete and Not Good (Game)
 
 ![](./scr.png)
 
